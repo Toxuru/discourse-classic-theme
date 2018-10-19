@@ -16,7 +16,7 @@
     margin-top: 5px;
 }
 
-.answer, .categ {
+.otvet, .answer, .categ {
     display: inline-block;
 }
 
@@ -46,9 +46,13 @@
     background-image: url($answer);
     width: 10px;
     height: 11px;
-    margin-top: 5px;
+    margin-top: 8px;
     position: absolute;
 }
+
+.otvet a.pren {
+    margin-left: 15px;
+}    
     
 .discourse-tag {
     font-size: 13px;
