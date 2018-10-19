@@ -10,3 +10,7 @@ The image uses a sidebar plugin.
 ## discourse-toxu-sidebar
 
 https://github.com/Toxuru/discourse-toxu-sidebar
+
+#License
+
+MIT
