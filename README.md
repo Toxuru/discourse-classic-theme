@@ -2,7 +2,7 @@
 
 Toxu classic discourse theme
 
-<img class="mfp-img" alt="teme2" src="https://toxu.ru/uploads/default/original/2X/e/e7a611cb02881d0e17eec6b24566fdaba767d4bf.jpeg" style="max-height: 589px;">
+<img alt="toxu-2" src="https://toxu.ru/uploads/default/original/2X/4/49e45c0fc47ada26ab048d9415db707fc5577769.png">
 
 
 Help: https://meta.discourse.org/tags/themes
@@ -10,7 +10,7 @@ Help: https://meta.discourse.org/tags/themes
 
 **After installing the sidebar**
 
-<img class="mfp-img" alt="teme" src="https://toxu.ru/uploads/default/original/2X/4/497867807854ef45fb9e58d283d2b3ffbc3b19bb.jpeg" style="max-height: 589px;">
+<img alt="toxu" src="https://toxu.ru/uploads/default/original/2X/a/ae0113fd8d825465839427ea123d280e7048b81f.png">
 
 
 ## discourse-toxu-sidebar
