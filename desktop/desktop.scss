@@ -1,1 +1,62 @@
+.telohome {
+    
+.title-t a.title { 
+ color: #09C !important;
+ font-size: 1.09em; 
+ font-weight: 400;
+   &:visited {color: #07C !important;}
+   &:hover {color: #f56400 !important;}
+}
 
+.topic-list .creator {
+    display: block;
+    font-size: 13px;
+    color: #919191;
+    margin-left: 48px;
+    margin-top: 5px;
+}
+
+.otvet, .categ {
+    display: inline-block;
+}
+
+.tegs {
+    float: right;
+    margin-top: -2px;
+}
+
+.topic-excerpt, .badge-category-parent-bg, .badge-category-bg {
+    display: none !important;
+}
+.creator a, a .category-name, .time {
+    color: #919191;
+    font-size: 13px;
+}
+.creator a:hover, a .category-name:hover, a.discourse-tag.simple:hover {color: #f56400;}
+.badge-wrapper {
+    font-weight: normal;
+}
+.discourse-tag {
+    font-size: 13px;
+    display: inline-block;
+    background: rgba(82,186,213,0.1);
+    text-decoration: none;
+    white-space: nowrap;
+    overflow: visible;
+    padding: .2em .8em;
+    line-height: 1.2;
+    border-radius: 3px;
+    border-image: initial;
+}
+
+.topic-list td:last-of-type {
+    text-align: center;
+}
+
+}
+ 
+.avahome {
+    float: left;
+    margin-right: 15px;
+    margin-top: 10px;
+} 
