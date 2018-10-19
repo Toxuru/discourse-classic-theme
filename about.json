@@ -1,5 +1,8 @@
 {
   "name": "Classic Theme Toxu",
   "about_url": "https://github.com/Toxuru/discourse-classic-theme",
-  "license_url": "https://github.com/Toxuru/discourse-classic-theme/blob/master/LICENSE.txt"
+  "license_url": "https://github.com/Toxuru/discourse-classic-theme/blob/master/LICENSE.txt",
+  "assets": {
+      "answer": "assets/answer.jpg"
+  }
 }
