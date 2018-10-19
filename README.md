@@ -11,6 +11,6 @@ The image uses a sidebar plugin.
 
 https://github.com/Toxuru/discourse-toxu-sidebar
 
-#License
+# License
 
 MIT
