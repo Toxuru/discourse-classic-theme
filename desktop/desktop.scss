@@ -67,7 +67,11 @@
     border-image: initial;
 }
 }
- 
+
+.category-uncategorized .no-no {
+    display: none;
+} 
+
 .avahome {
     float: left;
     margin-right: 15px;
