@@ -68,7 +68,7 @@
 </script>
 
 <script type='text/x-handlebars' data-template-name='topic-list-header.raw'>
-  {{raw "topic-list-header-column" order='vopr' name='number.format.delimiter' forceName='Вопросы'}}
+  {{raw "topic-list-header-column" order='default' name=listTitle bulkSelectEnabled=bulkSelectEnabled showBulkToggle=toggleInTitle canBulkSelect=canBulkSelect}}
  
   {{#if showLikes}}
      {{raw "topic-list-header-column" sortable='true' order='likes' number='true' forceName='Likes'}}
