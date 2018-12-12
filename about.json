@@ -3,6 +3,7 @@
   "about_url": "https://github.com/Toxuru/discourse-classic-theme",
   "license_url": "https://github.com/Toxuru/discourse-classic-theme/blob/master/LICENSE.txt",
   "assets": {
-      "answer": "assets/answer.jpg"
+      "answer": "assets/answer.jpg",
+      "bg": "assets/bg.png"
   }
 }
