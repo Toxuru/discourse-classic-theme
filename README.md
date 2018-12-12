@@ -2,10 +2,10 @@
 
 Toxu classic discourse theme
 
-<img  alt="toxu.ru" src="https://toxu.ru/uploads/default/original/2X/4/427b48dc35734953f2083e35d00e37cce0ac7906.png">
+<img  alt="toxu.ru" src="https://toxu.ru/uploads/default/original/2X/c/cb7169c020f7adef41bf2d7c581876f3d5402294.png">
 
 
-Help: https://meta.discourse.org/tags/themes
+Help: https://meta.discourse.org/t/minimal-classic-topic-list-design/103742
 
 
 **After installing the sidebar**
