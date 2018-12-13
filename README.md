@@ -15,7 +15,7 @@ Help: https://meta.discourse.org/t/minimal-classic-topic-list-design/103742
 
 ## discourse-toxu-sidebar
 
-https://github.com/Toxuru/discourse-toxu-sidebar
+https://github.com/Toxuru/discourse-sidebar-categories
 
 # License
 
