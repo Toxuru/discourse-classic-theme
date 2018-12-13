@@ -13,7 +13,7 @@ Help: https://meta.discourse.org/t/minimal-classic-topic-list-design/103742
 <img alt="toxu" src="https://toxu.ru/uploads/default/original/2X/a/a289ff7ca060c1b3359f8e057373e2abc7201cd4.png">
 
 
-## discourse-toxu-sidebar
+## discourse-sidebar-categories
 
 https://github.com/Toxuru/discourse-sidebar-categories
 
