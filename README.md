@@ -2,7 +2,7 @@
 
 **After installing the sidebar**
 
-<img src="/Toxuru/discourse-classic-theme/blob/master/toxu.jpg?raw=true" alt="toxu.jpg">
+<img src="https://github.com/Toxuru/discourse-classic-theme/blob/master/toxu.jpg?raw=true" alt="toxu.jpg">
 
 Help: https://meta.discourse.org/t/minimal-classic-topic-list-design/103742
 
